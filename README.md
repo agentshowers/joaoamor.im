@@ -1,2 +1,1 @@
-# joaoamor.im
-My personal website
+[My personal website](https://joaoamor.im)
