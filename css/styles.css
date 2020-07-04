@@ -488,6 +488,10 @@ mark,
   height: auto;
 }
 
+.img-skill {
+  max-height:48px;
+}
+
 .figure {
   display: inline-block;
 }
